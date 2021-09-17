@@ -13,3 +13,5 @@ public:
         return mx;
     }
 };
+//Time Complexity: O(n)
+//Space Complexity: O(1)
